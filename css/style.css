@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #F3F4F9;
+}
+
+/*========== header_start =========*/
+header{
+	background-color: #3B5998;
+}
+.container {
+	width: 75%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo {
+	width: 15%;
+	float: left;
+}
+
+.logo h1 {
+	/*font-family: 'Inconsolata', monospace;*/
+    font-weight: bolder;
+    color: #fff;
+    font-size: 42px;
+    padding: 18px 0px;
+}
+
+.menu {
+	width: 70%;
+	float: right;
+}
+
+.menu ul {
+	float: right;
+	margin-top: 15px;
+}
+
+.menu ul li {
+	list-style: none;
+	float: left;
+	margin-left: 15px;
+}
+
+.menu ul li label{
+	color: #fff;
+	font-size: 12px;
+}
+
+.menu ul li input{
+	padding: 2px 2px;
+	font-size: 12px;
+}
+
+.menu ul li a{
+	color: #9CABC5;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.menu ul li button{
+	color: #fff;
+    background-color: #4267b2;
+    border: 1px solid #29487d;
+    padding: 3px 4px;
+    font-weight: bold;
+}
+
+
+/*========== header_end =========*/
+
+
+/*========== signup_form_start =========*/
+
+.signup_form{
+ margin-top: 30px;
+}
+
+.fb_form{
+ width: 40%;
+ float: right;
+}
+
+.fb_form h1{
+	font-size: 35px;
+}
+
+.fb_form h5{
+	font-size: 18px;
+	margin-top: 10px;
+	font-weight: normal;
+}
+
+.fb_form form{
+	margin-top: 10px;
+}
+
+.fb_form table{
+	
+}
+
+.fb_form table tr{
+	
+}
+
+.fb_form table tr td{
+	padding: 4px 30px 4px 4px;
+}
+
+.fb_form table tr td input{
+	width: 100%;
+    padding: 10px 10px;
+    border-radius: 6px;
+    border: 1px solid #bdc7d8;
+    font-size: 18px;
+}
+
+.fb_form table tr td select{
+	padding: 4px 2px;
+	margin-top: 5px;
+	margin-left: 0px;
+	margin-right: 0px
+}
+
+.fb_form table tr td a{
+	font-size: 11px;
+	margin-top: 10px;
+}
+
+.fb_form table tr .radiobtn input{
+	width: auto;
+	margin-top: 10px;
+}
+
+.fb_form table tr td p{
+	font-size: 11px;
+	color: #777;
+}
+
+.fb_form table tr td button{
+	font-size: 18px;
+    border: 1px solid #3b6e22;
+    color: #fff;
+    background-color: #578843;
+    padding: 8px 50px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+/*========== signup_form_end =========*/
+
+
+
+/*========== footer_start =========*/
+
+/*footer{
+	background-color: #F0F0F0;
+    margin-top: 50px;
+}
+
+.footer_menu{
+	width: 30%;
+    float: left;
+}
+
+.footer_menu ul{
+	list-style: none;
+    float: left;
+}
+
+.footer_menu ul li{
+	float: left;
+}
+
+.footer_menu ul li a{
+	text-decoration: none;
+    padding: 35px 10px;
+    display: block;
+    color: #626262;
+}
+.footer_menu ul li:first-child a{
+	padding-left: 60px;
+	
+}
+.icons{
+	width: 40%;
+    float: right;
+}
+
+.icons ul{
+	list-style: none;
+    float: right;
+}
+
+.icons ul li{
+	float: left;
+}
+
+.icons ul li a{
+	color: #202020;
+    text-decoration: none;
+    padding: 35px 10px;
+    display: block;
+}
+
+.icons ul li:last-child a{
+	padding-right: 60px;
+	
+}*/
+/*========== footer_end =========*/
